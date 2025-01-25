@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: white;
+  background-color: #F5F5F5;
   font-family: "Poppins";
   overflow-x: hidden;
   box-sizing: border-box;
@@ -116,7 +116,6 @@ input::placeholder {
 
 /*Introduction Section Started*/
 .introduction {
-  background-color: white;
   display: flex;
   justify-content: center;
   gap: 40px;
@@ -354,7 +353,7 @@ input::placeholder {
   gap: 24px;
 }
 
-.projectect {
+.project {
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -402,17 +401,9 @@ input::placeholder {
   border-radius: 50%;
   background-color: white;
   color: rgb(14, 13, 13);
-  padding: 6px;
+  padding: 6px 2px;
 }
 
-.leftarr {
-  font-size: 35px;
-}
-
-.rightarr {
-  font-size: 35px;
-}
-/*Projects Section Started*/
 
 /*Qualification Section started*/
 .qualify {
